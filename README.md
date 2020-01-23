@@ -2,6 +2,9 @@
 
 https://frigo-app.herokuapp.com/
 
+
+![image](https://user-images.githubusercontent.com/53755494/72982176-68df9400-3dd6-11ea-8d20-f88672c5dd33.png)
+
 ## Objectives
 
 To work with a team of four developers within a timeframe of three weeks and build a web application to help users reduce food wastage by allowing users input expiry dates of their food items and getting an alert notification before the expiration date of the food item is reached. Web application would be built using ReactJS for the frontend and NodeJS for the backend. A NoSQL database such as MongoDB would be used as the database.
