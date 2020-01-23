@@ -3,7 +3,8 @@
 https://frigo-app.herokuapp.com/
 
 
-![image](https://user-images.githubusercontent.com/53755494/72982176-68df9400-3dd6-11ea-8d20-f88672c5dd33.png)
+![Fridge app ](https://user-images.githubusercontent.com/53755494/72984224-118ff280-3ddb-11ea-8702-2044e49dea1f.gif)
+
 
 ## Objectives
 
