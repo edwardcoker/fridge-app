@@ -14,7 +14,7 @@ To work with a team of five developers within a timeframe of three weeks and bui
 
 This application was developed using for the frontend ReactJS to take advantage of its useful library in building user interfaces, its component based architecture and robust modular structure. NodeJS with ExpressJS was used for the backend because of its real-time application capabilities with a fast and scalable runtime environment.
 
-As part of the team, i worked on the discovery phase of the projects assisting the team in conceptualising the frontend design, features and functional requirements of th application. I also pair programmed with a team member in design and building the schema for the database using MongoDB and connecting it to the web application.
+As part of the team, i worked on the discovery phase of the projects assisting the team in conceptualising the frontend design, features and functional requirements of the application. I also pair programmed with a team member in design and building the schema for the database using MongoDB and connecting it to the web application.
 
 ## User Stories
 
