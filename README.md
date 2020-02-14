@@ -34,3 +34,5 @@ The application has a simple user interface where users can input the names of t
 - NodeJS
 - ExpressJS
 - MongoDB
+- Heroku
+- GIT
